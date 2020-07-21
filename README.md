@@ -1,3 +1,3 @@
 ### NLP06
 
-## Word2Vec Example
+## Word2Vec Examples
